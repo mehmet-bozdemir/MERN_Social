@@ -17,7 +17,12 @@ const ProfileItem = ({
     <div className="card bg-white p-3 my-1 shadow mb-5 rounded">
       <div className="row no-gutters">
         <div className="col-md-4 d-flex justify-content-center align-items-center">
-          <img src={userImage} className="card-img rounded-circle" alt="..." />
+          <img
+            src={userImage}
+            className="card-img rounded-circle"
+            alt="..."
+            style={{ width: "200px", height: "200px" }}
+          />
         </div>
         <div className="col-md-8 d-flex justify-content-center align-items-center">
           <div className="card-body text-center">
