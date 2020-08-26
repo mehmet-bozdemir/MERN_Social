@@ -2,9 +2,7 @@
 
 This project consists of a simple Instagram-like application with users, posts, likes, followers, comments etc. - developed using MERN stack; React with Redux, Node, Express and MongoDB.
 
-### Share Your Post
-
-### Go to App => [immense-castle-11934.herokuapp.com](https://immense-castle-11934.herokuapp.com)
+## Go to App => [immense-castle-11934.herokuapp.com](https://immense-castle-11934.herokuapp.com)
 
 ## How to run this code
 
