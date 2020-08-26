@@ -1,4 +1,4 @@
-# MERN_Social
+<h1 align="center">MERN_Social</h1>
 
 This project consists of a simple Instagram-like application with users, posts, likes, followers, comments etc. - developed using MERN stack; React with Redux, Node, Express and MongoDB.
 
