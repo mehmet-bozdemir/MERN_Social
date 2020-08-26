@@ -4,7 +4,7 @@ This project consists of a simple Instagram-like application with users, posts, 
 
 ### Share Your Post
 
-### Go to App => ## [immense-castle-11934.herokuapp.com](https://immense-castle-11934.herokuapp.com)
+### Go to App => [immense-castle-11934.herokuapp.com](https://immense-castle-11934.herokuapp.com)
 
 ## How to run this code
 
