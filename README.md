@@ -2,16 +2,20 @@
 
 This project consists of a simple Instagram-like application with users, posts, likes, followers, comments etc. - developed using MERN stack; React with Redux, Node, Express and MongoDB.
 
+### Share Your Post
+
+### Go to App
+
 ## [immense-castle-11934.herokuapp.com](https://immense-castle-11934.herokuapp.com)
 
-#### How to run this code
+## How to run this code
 
 1. Make sure MongoDB is running on your system
 2. Clone this repository
 3. Open command line in the cloned folder,
-   - To install dependencies, run ` npm install ` or `yarn`
-   - To run the application for development, run ` npm run dev ` or `yarn dev`
-4. Open [localhost:3000](http://localhost:4000/) in the browser
+   - To install dependencies, run `npm install` or `yarn`
+   - To run the application for development, run `npm run dev` or `yarn dev`
+4. Open [localhost:4000](http://localhost:4000/) in the browser
 
 ## Some screenshots from the project.
 
